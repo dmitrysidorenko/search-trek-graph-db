@@ -1,0 +1,14 @@
+{
+  "name": "search-trek-graph-db",
+  "version": "0.0.1",
+  "description": "Graph database for SearchTrek to store treks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "search-trek"
+  ],
+  "author": "Dmitry Sydorenko",
+  "license": "ISC"
+}
